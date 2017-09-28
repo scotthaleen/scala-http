@@ -1,6 +1,7 @@
 
 # scala-http
 
+HTTP Server using [http4s](http://http4s.org)
 
 ```
 sbt run 
